@@ -1,67 +1,52 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="left">Hi 👋! My name is Mirza and I'm a programmer, from Indonesia</h2>
 
-<p align="center">
-  😎 Welcome to the chaos of <b>MirzaZulfadhliAmin</b>'s GitHub
-</p>
-
-<p align="center">
-  ☕ Code • 🧠 Think • 💥 Break • 🔧 Fix • 🔁 Repeat
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirzazulfadhliamin&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
-</p>
-
----
+###
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=rust" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-
+  <img src="https://raw.githubusercontent.com/mirzazulfadhliamin/mirzazulfadhliamin/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/mirzazulfadhliamin/mirzazulfadhliamin/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-<div align="center">
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanMyc3d4OWpsazM2NmpibWpibGgzMWJhNzJxMDhta2ZtYmlwN3JpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif"  />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulfadhli27mirza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MirzaZulfadhli)
-[![GitHub](https://img.shields.io/badge/GitHub-👾%20No%20Sleep-181717.svg?logo=github&logoColor=white)](https://github.com/mirzazulfadhliamin)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
----
+###
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mirzazulfadhliamin&theme=dracula&hide_border=false" height="160"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mirzazulfadhliamin&theme=dracula&no-frame=true&row=1" height="160"/>
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
----
+###
 
-<p align="center">
-  💻 “I don’t always code… but when I do, I debug for 6 hours”
-</p>
+<br clear="both">
 
-<p align="center">
-  🚀 Currently trying not to break production
-</p>
+<img src="https://raw.githubusercontent.com/mirzazulfadhliamin/mirzazulfadhliamin/snake-output/snake.svg" alt="Snake animation" />
+
+###
