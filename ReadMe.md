@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mirza and I'm a programmer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Mirza, from Indonesia</h2>
 
 ###
 
@@ -38,9 +38,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <a href="https://instagram.com/zulfadhli27mirza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://linkedin.com/in/MirzaZulfadhli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
 </div>
 
 ###
