@@ -1,65 +1,61 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+###
+
 <p align="center">
-  I'm <b>MirzaZOL</b> — a developer who loves building backend systems, APIs, and cloud-based applications.
+  <b>MirzaZulfadhliAmin</b>
 </p>
 
----
+###
 
-## 🌐 Socials
+<div align="center">
 
-<p align="center">
-  
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+
+</div>
+
+###
+
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulfadhli27mirza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MirzaZulfadhli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/mirzazulfadhliamin)
 
-</p>
+</div>
 
----
+###
 
-## 💻 Tech Stack
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mirzazulfadhliamin&theme=dracula&hide_border=false" height="160"/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://github-profile-trophy.vercel.app/?username=mirzazulfadhliamin&theme=dracula&no-frame=true&row=1" height="160"/>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+</div>
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+###
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MirzaZOL&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MirzaZOL&theme=dracula" height="150"/>
-</p>
-
----
-
-## 🚀 About Me
-
-- Backend-focused developer
-- Interested in cloud infrastructure & distributed systems
-- Loves building scalable APIs and automation tools
-- Always learning new technologies
-
----
-
-<p align="center">
-  ⚡ "Build. Break. Learn. Repeat."
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
