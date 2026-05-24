@@ -1,48 +1,52 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-###
-
 <p align="center">
-  <b>MirzaZulfadhliAmin</b>
+  😎 Welcome to the chaos of <b>MirzaZulfadhliAmin</b>'s GitHub
 </p>
 
-###
+<p align="center">
+  ☕ Code • 🧠 Think • 💥 Break • 🔧 Fix • 🔁 Repeat
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirzazulfadhliamin&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
+</p>
+
+---
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=rust" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" />
 
 </div>
 
-###
+---
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulfadhli27mirza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MirzaZulfadhli)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/mirzazulfadhliamin)
+[![GitHub](https://img.shields.io/badge/GitHub-👾%20No%20Sleep-181717.svg?logo=github&logoColor=white)](https://github.com/mirzazulfadhliamin)
 
 </div>
 
-###
+---
 
 <div align="center">
 
@@ -52,10 +56,12 @@
 
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  💻 “I don’t always code… but when I do, I debug for 6 hours”
+</p>
+
+<p align="center">
+  🚀 Currently trying not to break production
+</p>
